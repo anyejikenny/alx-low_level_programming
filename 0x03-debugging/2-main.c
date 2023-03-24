@@ -10,6 +10,7 @@ int main(void)
 {
 	int a, b, c;
 	int largest;
+	int largest_number(int a, int b, int c);
 
 	a = 972;
 	b = -98;
